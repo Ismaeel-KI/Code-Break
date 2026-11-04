@@ -4,13 +4,13 @@ This was an event conducted in a college symposium.
 Please follow the steps below to set up your system for the game.
 
 *Step 1:* Ensure you have installed the following applications (This may give you a clue as to what the puzzles are made of!).
->Python 
->> Install the `tkinter` library after python installation.
->Any DataBase browzer (I've used DB Browzer for SQLite)
->Sonic Visualizer (or any other application which does similar functions)
->Set the image in the file as your lock screen image! (please don't open the image for the integrity of the game!)
-*Step 2:* Run the **Code Break** program.
-*Step 3:* Enjoy the game!
+>1. Install python and the `tkinter` library after python installation.
+>1. Any DataBase browzer (I've used DB Browzer for SQLite)
+>1. Sonic Visualizer (or any other application which does similar functions)
+>1. Set the image in the file as your lock screen image! (please don't open the image for the integrity of the game!)
+
+*Step 2:* Run the **Code Break** program.\
+*Step 3:* Enjoy the game!\
 
 
 ## Note to self:
