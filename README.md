@@ -10,7 +10,7 @@ Please follow the steps below to set up your system for the game.
 >1. Set the image in the file as your lock screen image! (please don't open the image for the integrity of the game!)
 
 *Step 2:* Run the **Code Break** program.\
-*Step 3:* Enjoy the game!\
+*Step 3:* Enjoy the game!
 
 
 ## Note to self:
